@@ -1,0 +1,86 @@
+---
+title: "Doxa Solutions"
+comments: false
+about:
+  template: solana
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:lawrence@doxasolutions.ai
+---
+
+## **Applied AI Consulting Services**
+
+```{=html}
+<!-- Google Calendar Appointment Scheduling begin -->
+<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+<script>
+(function() {
+  var target = document.currentScript;
+  window.addEventListener('load', function() {
+    calendar.schedulingButton.load({
+      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ1pfYxmHaI0kuK3Zm8z3BoNj-l6vLTxfZc805oSrz1DRT0iZDbjWzJEgW_mkMovn8KB9yqOUWKk?gv=true',
+      color: '#039BE5',
+      label: 'Book an appointment',
+      target,
+    });
+  });
+})();
+</script>
+<!-- end Google Calendar Appointment Scheduling -->
+```
+
+### 🚀 **AI Implementation**  
+Building AI that works in production—scalable, efficient, and aligned with your needs.  
+- Architecting end-to-end AI systems  
+- Developing **RAG systems** with custom knowledge bases  
+- Building **AI agents** with specialized capabilities  
+- Optimizing **LLM prompts and fine-tuning models**  
+- Implementing **monitoring and observability** for AI performance  
+
+### 🔍 **AI Evaluation**  
+Ensure reliability, accuracy, and efficiency in your AI systems.  
+- Benchmarking **LLM performance** across providers  
+- Testing agent behavior, reliability, and decision-making  
+- Measuring **RAG accuracy** and relevance  
+- Implementing **automated evaluation pipelines**  
+- Creating **custom evaluation metrics** tailored to your use case  
+
+### 🎓 **AI Upskilling**  
+Equip your team with the skills to build and maintain AI solutions.  
+- Training sessions on **LLM fundamentals & best practices** for both non-technical and technical audiences 
+- Workshops on **prompt engineering & LLM best practices**  
+- Hands-on support for AI **implementation & troubleshooting**  
+- Code reviews & architecture consultation  
+- Building **internal documentation & AI playbooks**  
+
+---
+
+## **Technical Expertise**  
+
+I specialize in **end-to-end AI implementation** with deep expertise in:  
+
+- **Machine Learning**: Predictive modeling, regression classification, clustering (scikit-learn, XGBoost, PyTorch)  
+- **Large Language Models**: Fine-tuning, prompt engineering, and deployment (OpenAI, AzureOpenAI, Gemini, Anthropic, open-source models)  
+- **Retrieval-Augmented Generation (RAG)**: Vector databases, chunking strategies, hybrid retrievers  
+- **AI Agents**: Multi-agent architectures, planning, and tool usage  
+- **AI Frameworks**: LangChain, LangGraph, LangSmith, LiteLLM and custom orchestration  
+
+---
+
+## **About Me**  
+
+My name is Lawrence Wu and I am a Data Scientist / AI Engineer with 10+ years of experience in Generative AI, Traditional ML and Data Analytics. I can help teams:
+
+✅ Build **robust AI systems** that scale  
+✅ Optimize AI **performance & costs**  
+✅ Implement **best practices** for long-term success  
+✅ Enable teams with the **right tools & knowledge**  
+
+Whether you're starting from scratch or optimizing existing AI workflows, I'll help you **ship AI solutions that work**—efficiently, reliably, and at scale.  
+
+🔹 **Let's talk about your AI challenges!**
+
+Email lawrence at doxasolutions.ai with your challenges. You can also book an appointment [here](https://calendar.app.google/HZgEgw6UmUez7vUWA).
+

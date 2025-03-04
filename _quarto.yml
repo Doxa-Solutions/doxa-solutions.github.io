@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Doxa"
+  site-url: https://lawwu.github.io/blog.html
+  description: "Doxa Solutions AI Consluting"
+  open-graph: true
+  google-analytics: "G-LN4GM4FVCJ"
+  navbar:
+    right:
+      - icon: envelope
+        href: mailto:lawrence@doxasolutions.ai
+ 
+format:
+  html:
+    theme: flatly
+    css: styles.css
