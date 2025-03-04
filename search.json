@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Doxa Solutions",
+    "section": "",
+    "text": "Building AI that works in production—scalable, efficient, and aligned with your needs.\n- Architecting end-to-end AI systems\n- Developing RAG systems with custom knowledge bases\n- Building AI agents with specialized capabilities\n- Optimizing LLM prompts and fine-tuning models\n- Implementing monitoring and observability for AI performance\n\n\n\nEnsure reliability, accuracy, and efficiency in your AI systems.\n- Benchmarking LLM performance across providers\n- Testing agent behavior, reliability, and decision-making\n- Measuring RAG accuracy and relevance\n- Implementing automated evaluation pipelines\n- Creating custom evaluation metrics tailored to your use case\n\n\n\nEquip your team with the skills to build and maintain AI solutions.\n- Training sessions on LLM fundamentals & best practices for both non-technical and technical audiences - Workshops on prompt engineering & LLM best practices\n- Hands-on support for AI implementation & troubleshooting\n- Code reviews & architecture consultation\n- Building internal documentation & AI playbooks"
+  },
+  {
+    "objectID": "index.html#applied-ai-consulting-services",
+    "href": "index.html#applied-ai-consulting-services",
+    "title": "Doxa Solutions",
+    "section": "",
+    "text": "Building AI that works in production—scalable, efficient, and aligned with your needs.\n- Architecting end-to-end AI systems\n- Developing RAG systems with custom knowledge bases\n- Building AI agents with specialized capabilities\n- Optimizing LLM prompts and fine-tuning models\n- Implementing monitoring and observability for AI performance\n\n\n\nEnsure reliability, accuracy, and efficiency in your AI systems.\n- Benchmarking LLM performance across providers\n- Testing agent behavior, reliability, and decision-making\n- Measuring RAG accuracy and relevance\n- Implementing automated evaluation pipelines\n- Creating custom evaluation metrics tailored to your use case\n\n\n\nEquip your team with the skills to build and maintain AI solutions.\n- Training sessions on LLM fundamentals & best practices for both non-technical and technical audiences - Workshops on prompt engineering & LLM best practices\n- Hands-on support for AI implementation & troubleshooting\n- Code reviews & architecture consultation\n- Building internal documentation & AI playbooks"
+  },
+  {
+    "objectID": "index.html#technical-expertise",
+    "href": "index.html#technical-expertise",
+    "title": "Doxa Solutions",
+    "section": "Technical Expertise",
+    "text": "Technical Expertise\nI specialize in end-to-end AI implementation with deep expertise in:\n\nMachine Learning: Predictive modeling, regression classification, clustering (scikit-learn, XGBoost, PyTorch)\n\nLarge Language Models: Fine-tuning, prompt engineering, and deployment (OpenAI, AzureOpenAI, Gemini, Anthropic, open-source models)\n\nRetrieval-Augmented Generation (RAG): Vector databases, chunking strategies, hybrid retrievers\n\nAI Agents: Multi-agent architectures, planning, and tool usage\n\nAI Frameworks: LangChain, LangGraph, LangSmith, LiteLLM and custom orchestration"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Doxa Solutions",
+    "section": "About Me",
+    "text": "About Me\nMy name is Lawrence Wu and I am a Data Scientist / AI Engineer with 10+ years of experience in Generative AI, Traditional ML and Data Analytics. I can help teams:\n✅ Build robust AI systems that scale\n✅ Optimize AI performance & costs\n✅ Implement best practices for long-term success\n✅ Enable teams with the right tools & knowledge\nWhether you’re starting from scratch or optimizing existing AI workflows, I’ll help you ship AI solutions that work—efficiently, reliably, and at scale.\n🔹 Let’s talk about your AI challenges!\nEmail lawrence at doxasolutions.ai with your challenges. You can also book an appointment here."
+  }
+]
